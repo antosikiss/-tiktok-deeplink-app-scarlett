@@ -140,7 +140,7 @@ INSTRUCTIONAL_HTML = """
     </div>
 
     <div class="content">
-        <h1>Per accedere al link, segui questi 2 semplici passi:<br>steps:</h1>
+        <h1>Per accedere al link, segui questi 2 semplici passi:<br>:</h1>
 
         <div class="steps">
             <div class="step">
