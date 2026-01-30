@@ -140,16 +140,16 @@ INSTRUCTIONAL_HTML = """
     </div>
 
     <div class="content">
-        <h1>To access the link,<br>follow these 2 simple<br>steps:</h1>
+        <h1>Per accedere al link, segui questi 2 semplici passi:<br>steps:</h1>
 
         <div class="steps">
             <div class="step">
                 <div class="step-icon">👆</div>
-                Click the ... menu in the top right
+                Clicca sul menu ... in alto a destra
             </div>
             <div class="step">
                 <div class="step-icon">↗️</div>
-                Select "Open in browser"
+                Seleziona "Apri nel browser"
             </div>
         </div>
     </div>
