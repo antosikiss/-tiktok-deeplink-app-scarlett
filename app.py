@@ -145,11 +145,11 @@ INSTRUCTIONAL_HTML = """
         <div class="steps">
             <div class="step">
                 <div class="step-icon">👆</div>
-                Clicca sul menu ... in alto a destra
+               Tocca i tre puntini ... in alto a destra
             </div>
             <div class="step">
                 <div class="step-icon">↗️</div>
-                Seleziona "Apri nel browser"
+                Scegli "Apri nel browser"
             </div>
         </div>
     </div>
